@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/reactive-java-workshop-master/reactive-example.iml" filepath="$PROJECT_DIR$/reactive-java-workshop-master/reactive-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/reactive-java-workshop-master.iml" filepath="$PROJECT_DIR$/.idea/reactive-java-workshop-master.iml" />
+    </modules>
+  </component>
+</project>
